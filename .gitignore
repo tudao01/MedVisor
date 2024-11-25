@@ -134,3 +134,14 @@ __pycache__/
 *.keras
 *.jpg
 venv/
+
+# Ignore frontend files
+standalone-frontend/
+static/
+templates/
+
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
+
